@@ -1,0 +1,257 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image:radial-gradient(#73af55 30%,#e0e6e6);
+	font-family: "Comic Sans MS";
+	font-size: 12px;
+	color: white;
+}
+#intro-body{
+	background-image: radial-gradient(#ffffff 10%, #050000);
+	background-size: 100% 100vh;
+}
+#intro{
+	background-image: url('../img/noche.jpg');
+	background-size: 100% 100vh;
+	opacity: 1;
+	height: 500px;
+	width: 800px;
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+}
+#go{
+	padding-top: 50vh;
+	text-align: center;
+}
+#go a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+.menu{
+	position: relative;
+	float: right;
+	border-bottom: solid 2px #aa0000;
+	height: 35px;
+	width: 315px;
+	margin-right: 10px;
+	font-family: "Segoe Script";
+	font-size: 13px;
+}
+.menu-container{
+	width: 790px;
+	height: 40px;
+	margin: 0 auto;
+}
+.menu-container a{
+	padding-right: 20px;
+	color: #666666;
+	text-decoration: none;
+}
+.blanco{
+	clear: both;
+}
+.cuerpo{
+	width: 800px;
+	margin: 0 auto;
+}
+
+/*Formateando home*/
+#h3-img-home2{
+	padding: 15px 15px 0px 15px;
+}
+#img-home2{
+	position: relative;
+	float: left;
+}	
+#textarea-img-home2{
+	position: relative;
+	float: right;
+	padding: 20px 15px 0px 15px;
+	text-align: justify;
+}
+
+/*Formateando aboutme*/
+#h3-img-aboutme2{
+	padding: 15px 15px 0px 15px;
+}
+#img-aboutme2{
+	position: relative;
+	float: left;
+}
+#textarea-img-aboutme2{
+	position: relative;
+	float: right;
+	padding: 20px 15px 0px 15px;
+	text-align: justify;
+}
+#textarea-img-aboutme3{
+	position: relative;
+	float: left;
+	padding: 20px 15px 0px 15px;
+	text-align: justify;
+}
+#h3-img-aboutme3{
+	padding: 15px 15px 0px 15px;
+}
+#img-aboutme3{
+	position: relative;
+	float: right;
+}
+#h3-img-aboutme4{
+	padding: 15px 15px 0px 15px;
+}
+#img-aboutme4{
+	position: relative;
+	float: left;
+}
+#textarea-img-aboutme4{
+	position: relative;
+	float: right;
+	padding: 20px 15px 0px 15px;
+	text-align: justify;
+}
+#h3-img-aboutme5{
+	padding: 15px 15px 0px 15px;
+}
+#img-aboutme5{
+	position: relative;
+	float: right;
+}
+#textarea-img-aboutme5{
+	position: relative;
+	float: left;
+	padding: 20px 15px 0px 15px;
+	text-align: justify;
+}
+
+/*Formateando hobbies*/
+#textarea-img-hobbies211{
+	position: relative;
+	float: left;
+	padding: 3px 1px 0px 1px;
+	text-align: justify;
+}
+#textarea-img-hobbies212{
+	position: relative;
+	float: right;
+	padding: 100px 1px 0px 1px;
+	text-align: justify;
+}
+#img-hobbies21{
+	position: relative;
+	float: left;
+}
+#img-hobbies22{
+	position: relative;
+	float: right;
+}
+#textarea-img-hobbies31{
+	position: relative;
+	float: left;
+	padding: 15px 1px 0px 1px;
+	text-align: justify;
+}
+#img-hobbies31{
+	position: relative;
+	float: left;
+}
+#textarea-img-hobbies32{
+	position: relative;
+	float: left;
+	padding: 15px 1px 0px 1px;
+	text-align: justify;
+}
+#img-hobbies32{
+	position: relative;
+	float: left;
+}
+.hobbies-cabeza{
+	width: 800px;
+	height: 255px;
+	margin: 0 auto;
+}
+
+/*Formatendo botonera hobbies*/
+#hobbies-cuerpo-botonera{
+	position: relative;
+	float: all;
+	top: 300px;
+}
+
+/*Formateando gallery*/
+.gallery-img{
+	position: relative;
+	float: left;
+	background-color: red;
+	padding: 1px;
+}
+.gallery-img-text{
+	position: relative;
+	top: 120px;
+	left: 60px;
+}
+
+/*Formateando links*/
+.links-img{
+	background-color: green;
+	padding: 1px;
+}
+.links-img-text{
+	position: relative;
+	float: right;
+}
+.links-img-text2{
+	background-color: purple;
+	position: relative;
+	float: right;
+}
+
+
+/*Clases de imagenes*/
+.imagen-1{
+	width: 800px;
+	height: 255px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-2{
+	width: 535px;
+	height: 285px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-3{
+	width: 380px;
+	height: 220px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-4{
+	width: 195px;
+	height: 154px;
+	padding-top: 10px;
+	margin-left: 3px;
+	margin-bottom: 3px;
+}
+.imagen-5{
+	width: 160px;
+	height: 105px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-6{
+	width: 590px;
+	height: 60px;
+	padding-top: 10px;
+	margin-left: 3px;
+	margin-bottom: 5px;
+}
+.boton-hobbies{
+	width: 22px;
+	padding: 0px 1px 0px 1px; 
+	position: relative;
+	top: -27px;
+	left: 3px;
+}

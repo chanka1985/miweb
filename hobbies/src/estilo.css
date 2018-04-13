@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image:radial-gradient(#73af55 30%,#e0e6e6);
+	font-family: "Comic Sans MS";
+	font-size: 12px;
+	color: white;
+}
+.menu{
+	position: relative;
+	float: right;
+	border-bottom: solid 2px #aa0000;
+	height: 35px;
+	width: 315px;
+	margin-right: 10px;
+	font-family: "Segoe Script";
+	font-size: 13px;
+}
+.menu-container{
+	width: 790px;
+	height: 40px;
+	margin: 0 auto;
+}
+.menu-container a{
+	padding-right: 20px;
+	color: #666666;
+	text-decoration: none;
+}
+.blanco{
+	clear: both;
+}
+.cuerpo{
+	width: 800px;
+	margin: 0 auto;
+}
+.cabeza{
+	width: 800px;
+	height: 255px;
+	margin: 0 auto;
+}
+
+/*Formateando caza*/
+.caza-img1{
+	position: relative;
+	float: left;
+}
+#caza-text1{
+	position: relative;
+	top: 30px;
+}
+.caza-img2{
+	position: relative;
+	float: left;	
+}
+.caza-img3{
+	position: relative;
+	float: left;
+}	
+#caza-div-txt1{
+	position: relative;
+	left: 80px;
+	text-align: justify;
+}
+#caza-div-txt2{
+	position: relative;
+	left: 24px;
+	top: 55px;
+	text-align: justify;
+}
+#caza-div-txt3{
+	position: relative;
+	left: 40px;
+	top: 40px;
+	text-align: justify;
+}
+#dibujo-div-txt1{
+	position: relative;
+	float: left;
+}
+#dibujo-div-txt2{
+	position: relative;
+	float: right;
+}
+#dibujo-img1{
+	margin: 0 auto;
+}
+.dibujo-img2{
+	position: relative;
+	float: left;
+}
+.dibujo-txt{
+	position: relative;
+	left: 5px;
+	top: 10px;
+	text-align: justify;
+}
+
+
+/*Formatendo botonera*/
+#hobbies-cuerpo-botonera{
+	position: relative;
+	float: all;
+	top: 300px;
+}
+
+
+.imagen-1{
+	width: 800px;
+	height: 255px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-2{
+	width: 535px;
+	height: 285px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-3{
+	width: 380px;
+	height: 220px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-4{
+	width: 195px;
+	height: 154px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-5{
+	width: 160px;
+	height: 105px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-6{
+	width: 260px;
+	height: 175px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.imagen-7{
+	width: 160px;
+	height: 285px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.boton-hobbies{
+	width: 22px;
+	padding: 0px 1px 0px 1px; 
+	position: relative;
+	top: -27px;
+	left: 3px;
+}
