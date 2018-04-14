@@ -9,12 +9,13 @@ body{
 .menu{
 	position: relative;
 	float: right;
-	border-bottom: solid 2px #aa0000;
-	height: 35px;
-	width: 315px;
-	margin-right: 10px;
-	font-family: "Segoe Script";
-	font-size: 13px;
+	border-bottom: solid 2px #B21313;
+	height: 42px;
+	width: 325px;
+	margin-right: 8px;
+	margin-bottom: 9px;
+	font-family: 'Gaegu', cursive;
+	font-size: 18px;
 }
 .menu-container{
 	width: 790px;
@@ -23,7 +24,7 @@ body{
 }
 .menu-container a{
 	padding-right: 20px;
-	color: #666666;
+	color: #F9F9F9;
 	text-decoration: none;
 }
 .blanco{
@@ -95,12 +96,18 @@ body{
 	text-align: justify;
 }
 
+/*Fotografia*/
+#fotografia-div-txt1{
+	position: relative;
+	float: right;
+}
+
 
 /*Formatendo botonera*/
 #hobbies-cuerpo-botonera{
 	position: relative;
-	float: all;
-	top: 300px;
+	float: left
+	
 }
 
 
